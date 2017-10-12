@@ -1,0 +1,19 @@
+{
+  "name": "serverprova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://saranto1989@bitbucket.org/saranto1989/serverprova.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://saranto1989@bitbucket.org/saranto1989/serverprova/issues"
+  },
+  "homepage": "https://bitbucket.org/saranto1989/serverprova/src/README.md"
+}
